@@ -23,11 +23,11 @@ and it will notify you when you've reached the end of the game.
 - It's possible to reach the flag pole.
 
 ### How to control the character
-Move Forward - Right Arrow
-Move Backwards - Left Arrow
-Jump - Space
+Move Forward - Right Arrow  
+Move Backwards - Left Arrow  
+Jump - Space  
 
 ## Copyright
-© All Rights Reserved 2021
-Emmanuel Cantú González
-ecg5@student.london.ac.uk
+© All Rights Reserved 2021  
+Emmanuel Cantú González  
+ecg5@student.london.ac.uk  
